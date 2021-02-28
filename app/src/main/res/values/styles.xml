@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="MyDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">@color/solid_light_color</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="fontFamily">@font/ps_bold</item>
+        <item name="android:paddingBottom">3dp</item>
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStyle</item>
+    </style>
+
+    <style name="NegativeButtonStyle" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">@color/teal_200</item>
+    </style>
+
+</resources>

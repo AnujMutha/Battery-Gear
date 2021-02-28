@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394815840139",
+    "project_id": "batterygear-2175e",
+    "storage_bucket": "batterygear-2175e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394815840139:android:345f6efde203375254d98e",
+        "android_client_info": {
+          "package_name": "com.muthadevelopers.batterygear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394815840139-lcitc8c2hpmdro6du91fkp4p2qjvhovq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtoQ9QCFt1mIvplHPTu9mj-eVfdH8WNm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394815840139-lcitc8c2hpmdro6du91fkp4p2qjvhovq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

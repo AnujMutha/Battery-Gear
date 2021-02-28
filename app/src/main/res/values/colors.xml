@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#0D000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_blue">#1D1A3C</color>
+    <color name="black_alpha">#80000000</color>
+
+
+    <color name="solid_light_color">#312F5A</color>
+    <color name="solid_dark_color">#161529</color>
+    <color name="pink">#D81B60</color>
+    <color name="orange">#F4511E</color>
+    <color name="green">#00FF00</color>
+    <color name="solid_light_color_for_header">#806A66C8</color>
+
+</resources>
