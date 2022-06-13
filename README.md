@@ -2,7 +2,7 @@
 # Battery-Gear
 
 The open source application with beautifull and intuitive User interface from playstore 
-<br/><br/>Check out the app here : https://play.google.com/store/apps/details?id=com.muthadevelopers.batterygear&hl=en_IN&gl=US
+<br/><br/>Check out the app here : 
 
 The open source application with beatuifull and intuitive User interface from playstore 
 <br/><br/>Check out the app here : https://play.google.com/store/apps/details?id=com.muthadevelopers.batterygear
